@@ -62,7 +62,6 @@ public  class Controle {
     }
     public int quantidadePessoas(){
         return listaPessoas.size();
-   // teste
     }
 }
 
